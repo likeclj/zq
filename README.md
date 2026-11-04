@@ -1,23 +1,11 @@
 # zq
 
-> 中青阅读相关脚本（已清理过时测试文件）
+> ⚠️ 此仓库内容已迁移/清理，可直接删除。
 
-## 当前文件
+- 原分片测试脚本已全部删除
+- 剩余的 `youth.js` 与 [Y 仓库](https://github.com/likeclj/Y) 中版本相同
 
-| 文件 | 说明 |
-|------|------|
-| `youth.js` | 中青阅读主脚本（与 [Y 仓库](https://github.com/likeclj/Y) 中版本相同） |
-
-## 说明
-
-- 原仓库中的大量分片测试脚本（`zq_*.js`）已全部删除
-- 推荐直接使用 [Y 仓库](https://github.com/likeclj/Y) 中的完整版本
-- 本仓库可考虑归档
-
-## 注意事项
-
-- 脚本较旧，平台规则可能已变更
-- 仅供个人参考，不保证可用性
+**删除方法：**  Settings → Danger Zone → Delete this repository
 
 ---
 
